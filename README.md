@@ -2,4 +2,4 @@
 - I’m interested in coding, VR and normal gaming
 - I’m currently learning a lot of different coding languages but I am putting my focus on swift for now
 - How to reach me: discord: ShadowWolf308#7759
-- i am currently working an internship at Yaacomm
+- i am currently working at Yaacomm
