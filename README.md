@@ -1,5 +1,5 @@
 - Hi, I’m @ShadowWolf308
 - I’m interested in coding, VR and normal gaming
 - I’m currently learning a lot of different coding languages but I am putting my focus on typescript react for now
-- How to reach me: discord: shadowwolf308
+- How to reach me: discord: astrolaxis
 - i am currently working at Yaacomm
